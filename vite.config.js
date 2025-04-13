@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/~your-username/hooks/',
+  base: '/~wissama/html-2025/Week4/',
 });
